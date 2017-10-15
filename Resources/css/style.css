@@ -21,7 +21,7 @@ h5, span {
   font-size: 14px;
 }
 .bigbanner {
-  background-image: url('the-flatiron-building.png');
+  background-image:url("../images/the-flatiron-building.png");
   text-align: center;
   color: white;
 }
